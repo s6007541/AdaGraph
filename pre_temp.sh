@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/home/sorn111930/anaconda3/envs/gtrans2/lib
